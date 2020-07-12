@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2020-04-12T12:02:00Z",
+    "updatedAt": "2020-04-19T18:28:00Z",
+    "deletedAt": null,
+    "email": {
+      "String": "subzero@dreamrealm.com",
+      "Valid": true
+    },
+    "password": {
+      "String": "$2a$10$NkTUeL6hkTRZ7M13tKYLqOmg7pAQaGPdpch9b5UoTSoO77MHjbPjm",
+      "Valid": true
+    },
+    "state": {
+      "String": "CONFIRMED",
+      "Valid": true
+    }
+  },
+  {
+    "id": 2,
+    "createdAt": "2019-02-11T16:36:59Z",
+    "updatedAt": "2020-01-31T22:01:53Z",
+    "deletedAt": null,
+    "email": {
+      "String": "reptile@netherrealm.com",
+      "Valid": true
+    },
+    "password": {
+      "String": "$2a$10$NkTUeL6hkTRZ7M13tKYLqOmg7pAQaGPdpch9b5UoTSoO77MHjbPjm",
+      "Valid": true
+    },
+    "state": {
+      "String": "CONFIRMED",
+      "Valid": true
+    }
+  }
+]

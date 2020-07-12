@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2019-06-03T08:20:56Z",
+    "updatedAt": "2020-02-29T20:00:04Z",
+    "deletedAt": null,
+    "name": "Shao Khan",
+    "phone": "0831111111",
+    "user_id": 0
+  },
+  {
+    "id": 2,
+    "createdAt": "2019-06-03T08:20:56Z",
+    "updatedAt": "2020-02-29T20:00:04Z",
+    "deletedAt": null,
+    "name": "Reptile",
+    "phone": "0832222222",
+    "user_id": 0
+  },
+  {
+    "id": 3,
+    "createdAt": "2019-06-03T08:20:56Z",
+    "updatedAt": "2020-02-29T20:00:04Z",
+    "deletedAt": null,
+    "name": "Scorpion",
+    "phone": "0832222222",
+    "user_id": 1
+  }
+]

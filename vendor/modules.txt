@@ -1,0 +1,37 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/gorilla/mux v1.7.3
+## explicit
+github.com/gorilla/mux
+# github.com/heroku/x v0.0.22
+## explicit
+github.com/heroku/x/hmetrics
+github.com/heroku/x/hmetrics/onload
+# github.com/jmoiron/sqlx v1.2.0
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.5.1
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# github.com/xo/dburl v0.0.0-20200124232849-e9ec94f52bc3
+## explicit
+github.com/xo/dburl
+# golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
