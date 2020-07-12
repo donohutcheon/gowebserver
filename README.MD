@@ -1,5 +1,26 @@
 # README
 
+This project integrates with Investec's programmable banking API to receive programmed webhook events from the bank.  A webserver written in GoLang receives these
+events and stores them in a MariaDB database.  A ReactJS frontend is used to provide the user interface.  The webserver provides basic authentication using JWT.
+This system is hosted on Heroku making use of pipelines to build, test and deploy the software.
+
+## How to Use
+
+To use this software for your own purposes:
+
+Fork https://github.com/donohutcheon/gowebserver
+Create an account on Heroku
+Create a new pipeline - give it a name such as ${app-name/pet-name/whatever/}-pipeline.  The name you use next needs to be unique.  Pipelines don't necessarily map one-to-one 
+with apps.  A pipeline can contain many apps, but pipelines do match one-to-one with git repositories.  In our case the GoLang web server hosts the static web files 
+and thus one app inside the pipeline will suffice.
+
+Add an app in staging and/or production.
+Open the pipeline's settings and click "Enable Heroku CI".  Unfortunately this cost $10 per month you may need to enter your credit card details.
+
+Go back to the pipeline screen and open the app page.
+Add JawsDB Maria and Mailtrap.
+
+
 ## Example Commands
 
 New User
