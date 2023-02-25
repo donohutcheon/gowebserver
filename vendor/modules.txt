@@ -29,7 +29,7 @@ github.com/stretchr/testify/require
 # github.com/xo/dburl v0.0.0-20200124232849-e9ec94f52bc3
 ## explicit
 github.com/xo/dburl
-# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+# golang.org/x/crypto v0.1.0
 ## explicit
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish

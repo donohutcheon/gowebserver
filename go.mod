@@ -13,5 +13,5 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/stretchr/testify v1.5.1
 	github.com/xo/dburl v0.0.0-20200124232849-e9ec94f52bc3
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/crypto v0.1.0
 )
